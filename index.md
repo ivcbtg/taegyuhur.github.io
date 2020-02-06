@@ -2,9 +2,8 @@
 ## Welcome to Taegyu's Personal Website
 
 
-First Header | Second Header
------------- | -------------
-- Contact  
+- Contact
+
 
 Fisher College of Business  
 The Ohio State University    
