@@ -10,7 +10,7 @@ The Ohio State University
 2100 Neil Avenue, OH 43210   
 
 Phone: (480)245-8955  
-Email: hur.71@osu.edu | Content from cell 2
+Email: hur.71@osu.edu 
 
 
 
