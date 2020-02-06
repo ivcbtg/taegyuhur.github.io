@@ -14,14 +14,8 @@ Email: hur.71@osu.edu | Content from cell 2
 
 
 
-
-
-
 I'm currently a job market candidate from the Ohio State University. This is my [CV](https://www.dropbox.com/s/ghu9rpqpahjhv7m/Taegyu_Hur_CV.pdf?dl=0). 
 
-### Education
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
