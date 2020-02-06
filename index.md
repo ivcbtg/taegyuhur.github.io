@@ -1,8 +1,6 @@
 ## Welcome to Taegyu's Personal Website
 
-You can use the [editor on GitHub](https://github.com/ivcbtg/taegyuhur.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm currently a job market candidate from the Ohio State University. You can use the [CV](https://www.dropbox.com/s/ghu9rpqpahjhv7m/Taegyu_Hur_CV.pdf?dl=0)  
 
 ### Education
 
