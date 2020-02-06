@@ -1,6 +1,7 @@
 ## Welcome to Taegyu's Personal Website
 
-### Contact
+
+- Contact
 
 Fisher College of Business
 The Ohio State University
@@ -8,7 +9,6 @@ The Ohio State University
 
 Phone: (480)245-8955
 Email: hur.71@osu.edu
-
 
 
 I'm currently a job market candidate from the Ohio State University. This is my [CV](https://www.dropbox.com/s/ghu9rpqpahjhv7m/Taegyu_Hur_CV.pdf?dl=0). 
