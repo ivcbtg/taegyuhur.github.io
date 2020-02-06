@@ -1,6 +1,6 @@
 ## Welcome to Taegyu's Personal Website
 
-I'm currently a job market candidate from the Ohio State University. You can use the [CV](https://www.dropbox.com/s/ghu9rpqpahjhv7m/Taegyu_Hur_CV.pdf?dl=0)  
+I'm currently a job market candidate from the Ohio State University. This is my [CV](https://www.dropbox.com/s/ghu9rpqpahjhv7m/Taegyu_Hur_CV.pdf?dl=0). 
 
 ### Education
 
