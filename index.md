@@ -1,14 +1,20 @@
 ## Welcome to Taegyu's Personal Website
 
 
-- Contact
+First Header | Second Header
+------------ | -------------
+- Contact  
 
-Fisher College of Business
-The Ohio State University
-2100 Neil Avenue, OH 43210
+Fisher College of Business  
+The Ohio State University    
+2100 Neil Avenue, OH 43210   
 
-Phone: (480)245-8955
-Email: hur.71@osu.edu
+Phone: (480)245-8955  
+Email: hur.71@osu.edu | Content from cell 2
+
+
+
+
 
 
 I'm currently a job market candidate from the Ohio State University. This is my [CV](https://www.dropbox.com/s/ghu9rpqpahjhv7m/Taegyu_Hur_CV.pdf?dl=0). 
